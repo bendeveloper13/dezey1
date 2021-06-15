@@ -1,0 +1,74 @@
+body
+{
+    padding: 10px;
+    margin: 10px;
+    min-width: 30em;
+    max-width: 80em;
+    
+}
+
+.bod {
+    background-image: url(j.jpg);
+}
+.header {
+    text-align: center;
+    padding: 150px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.h1 {
+    font-size: 30px;
+    font-style: oblique;
+}
+
+button {
+    padding: 30px;
+    font-size: 20px;
+    color: black;
+}
+
+button a{
+    text-decoration: none;
+    text-transform: none;
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+button ul{
+    display: inline;
+}
+
+button li {
+    display: inline-block;
+     text-decoration: none;
+    text-transform: none;
+    text-transform: uppercase;
+    padding: 20px;
+    color: black;
+}
+
+
+.para {
+    font-size: 22px;
+    text-align: left;
+}
+
+.present {
+    background-image: url(blue.jpg);
+    
+}
+
+.img {
+    image-resolution: 40%;
+}
+
+
+
+.ILU {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
